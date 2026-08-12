@@ -81,7 +81,7 @@ My journey of practicing coding problems and improving Data Structures & Algorit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nehayadav1213&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=nehayadav1213&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehayadav1213&theme=tokyonight&hide_border=true" />
 
@@ -93,8 +93,7 @@ My journey of practicing coding problems and improving Data Structures & Algorit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehayadav1213&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nehayadav1213&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 ---
